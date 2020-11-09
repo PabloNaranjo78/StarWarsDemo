@@ -20,7 +20,7 @@
         <jar destfile="${build.dir}/${app.name}" basedir="${build.dir}/classes">
             <manifest>
                 <attribute name = "Class-path" value="../lib/*"/>
-                <attribute name="Main-Class" value="demo.starwars.Main"/>
+                <attribute name="Main-Class" value="demo.Main"/>
             </manifest>
         </jar>
     </target>

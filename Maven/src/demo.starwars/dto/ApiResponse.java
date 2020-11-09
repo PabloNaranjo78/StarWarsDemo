@@ -1,4 +1,4 @@
-package demo.starwars.dto;
+package dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
